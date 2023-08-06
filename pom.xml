@@ -28,6 +28,7 @@
         <module>occipital</module>
         <module>parietal</module>
         <module>limbic</module>
+        <module>api</module>
     </modules>
 
     <dependencies>
